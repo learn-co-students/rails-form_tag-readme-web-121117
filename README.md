@@ -1,4 +1,4 @@
-# Rails form_tag
+<!-- # Rails form_tag
 
 
 ## Rails Forms
@@ -270,4 +270,4 @@ Let's check out the raw HTML all these helper methods generate for us:
 
 Run the spec tests one last time to verify that everything is still passing. You now know how to build a Rails form from scratch and refactor it using Rails form helper methods. Nice work!
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/rails-form_tag-readme'>Rails form_tag</a> on Learn.co and start learning to code for free.</p>
+<p class='util--hide'>View <a href='https://learn.co/lessons/rails-form_tag-readme'>Rails form_tag</a> on Learn.co and start learning to code for free.</p> -->
